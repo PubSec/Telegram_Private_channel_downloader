@@ -7,7 +7,7 @@ A Python script that automatically downloads media files from private Telegram c
 - Checks if the file size and the downloaded file size are equal
 - Saves the last downloaded message id to skip already downloaded medias
 - Uses the logging  module to display more information
-- Added delay to avoid rate limites
+- Added delay to avoid rate limits
 - Fixed some minor bugs
 
 ## Features
