@@ -3,11 +3,12 @@
 A Python script that automatically downloads media files from private Telegram channels you are a member of. The script filters messages from a specified date and saves all media attachments to organized local directories.
 
 ## Changes
-Checks if the file size and the downloaded file size are equal
-Saves the last downloaded message id to skip already downloaded medias
-Uses the logging  module to display more information
-Added delay to avoid rate limites
-Fixed some minor bugs
+
+- Checks if the file size and the downloaded file size are equal
+- Saves the last downloaded message id to skip already downloaded medias
+- Uses the logging  module to display more information
+- Added delay to avoid rate limites
+- Fixed some minor bugs
 
 ## Features
 
